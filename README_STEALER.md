@@ -1,4 +1,4 @@
-# Advanced Data Stealer - Complete Package
+# Coe Stealer- Complete Package
 
 ## 📦 Files Included
 
@@ -248,16 +248,6 @@ Run as Administrator or add exclusions to antivirus
 - Discord token stealing
 - System information collection
 
-## 🤝 Credits
-
-Based on concepts from:
-- Discord token extraction techniques
-- Chrome credential decryption methods
-- Windows password recovery tools
-
-## 📞 Support
-
-**DO NOT** contact for illegal use assistance.
 
 For educational questions only.
 
